@@ -1,0 +1,31 @@
+1. Energy and environmental performance 
+As part of the building, AF are associated with multiple environ mental variables. In this category, we classifified energy 
+and carbon emissions related aspects that get inflfluenced by, or interact with, the façade design. This includes 
+operational or embodied energy and carbon for AF. AF systems directly inflfluence the building in door environment and 
+have an impact on the cooling and heating loads. The underlying building physics of AF systems in relation to building 
+energy performance and envelope life cycle assessment is one of the KPIs for AF. The logic behind this category is to 
+group the variables that quantify the façade’s environmental impact and performance. 
+2. Protective performance 
+The following set of KPIs is the protective performance of AF. Inspired by the defifinition of Herzog et al. [34] we grouped 
+all per formance aspects related to structural stability and safety, together with construction related criteria under this 
+category. The underlying building physics and material science of AF systems takes into account fifire resistance and 
+structural performance next to acoustic and visual performance. This includes water and air permeability and the 
+radiation properties for natural lighting and solar control.The logic behind this category is to group the variables that 
+justify the façade’s function and stability from a user point of view. 
+3. Building control and services 
+The interaction between HVAC systems and the AF that takes place to assure comfort is the third category. Under this 
+group we address the four types of comfort, in direct relation with building management systems and façade controls. 
+The management and interaction through automated and smart technologies is based on a set of variables that fifits 
+under this category. Building services including mechanical ventilation and active systems and their direct control to 
+achieve indoor comfort are grouped under this category. The logic behind this category is to group the variables that 
+relate to active control of the building services in relation to the façade and indoor comfort requirements. 
+4. User control and experience 
+The fourth KPI category, groups variables related to occupant control and engagement. The subjective perception on the 
+indoor environment of users in relation to their ability to act and engage with the façade to regulate their living or working 
+environment is grouped under this category. The logic behind this category is to group the variables that quantify 
+occupant control and engagement with the façade within the indoor environment. 
+5. Maintenance, durability and life cycle 
+The fififth group of KPIs collects the variables related to time. As pects related to the life of the façade during operation 
+are grouped in this category including maintenance, replacement, cleaning and durability. This category also includes 
+cost-related parameters and end of life cycle or guarantee issues. The logic behind this category is to group the 
+variables that maintain the façade performance, components and elements.

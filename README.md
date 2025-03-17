@@ -1,6 +1,8 @@
 # archi
 
 > A Vue.js project
+The mission of our platform is not to develop general-purpose large-scale language modelling applications (e.g., ChatGPT, MidJourney), but rather to lay the foundation for the next generation of professional-grade AI creativity and design tools to empower a wide range of professional designers by carrying out the world's first application based on a design domain-specific LLM (DS-LLM). 
+
 
 ## Build Setup
 
